@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Fri Nov 25 11:31:08 CST 2016
+2.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_
+5.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex
+5.set=DEX
+3.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_
+2.set=ANDROID_RESOURCE
+4.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_
+count=6
+0.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_\\AndroidManifest.xml
+5.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+4.set=ANDROID_RESOURCE
+1.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable\\ic_launcher.png
+1.set=ANDROID_RESOURCE
+2.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\drawable\\settings_changeskin.png
+0.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_
+3.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_\\res\\layout\\testlayout.xml
+3.set=ANDROID_RESOURCE
+1.base=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_
+4.file=D\:\\workspace\\AS\\Wdecgrec\\WdecgrecSkinOldAges\\app\\build\\intermediates\\res\\resources-release.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
